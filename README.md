@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Dervishan
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Microservices
+- 🌱 I’m currently learning Vue
 - 💞️ I’m looking to learn more
 - 📫 How to reach me linkedin/in/dervishan
